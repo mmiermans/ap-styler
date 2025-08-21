@@ -1,0 +1,12 @@
+{
+  "name": "ap-style-workshop",
+  "version": "1.0.0",
+  "description": "Workshop for implementing AP style title capitalization",
+  "main": "apStyleConverter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
